@@ -6,11 +6,10 @@
 
 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miyayayayayaya&show_icons=true&theme=rose&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyayayayayaya&layout=compact&theme=rose" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miyayayayayaya&show_icons=true&theme=material-palenight&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyayayayayaya&layout=compact&theme=material-palenight" height="150" alt="languages graph" />
 
   <br>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyayayayayaya&theme=rogue" alt="Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=miyayayayayaya&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight"/>
 </div>
