@@ -11,5 +11,5 @@
 
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyayayayayayaya&theme=github-compact" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyayayayayaya&theme=github-compact" alt="Activity Graph" />
 </div>
