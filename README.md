@@ -12,4 +12,5 @@
   <br>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyayayayayaya&theme=rogue" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miyayayayayaya&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight"/>
 </div>
