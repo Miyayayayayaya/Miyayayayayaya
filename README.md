@@ -1,6 +1,7 @@
 🛠 Learning
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,git,github,vscode" />
+  <img src="https://streak-stats.demolab.com/?user=miyayayayayaya&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <br>
 
